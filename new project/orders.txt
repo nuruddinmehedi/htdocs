@@ -1,0 +1,415 @@
+<table style="border: 0px;">
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+<tr style="background-color:#4CAF50; font-size:30px; color:#ffff; "><th></th></tr>
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+<tr style="background-color:#4CAF50; font-size:30px; color:#ffff; "><th></th></tr>
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+<tr style="background-color:#4CAF50; font-size:30px; color:#ffff; "><th></th></tr>
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>oilqty</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+<tr style="background-color:#4CAF50; font-size:30px; color:#ffff; "><th></th></tr>
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+<tr style="background-color:#4CAF50; font-size:30px; color:#ffff; "><th>0</th></tr>
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+<tr style="background-color:#4CAF50; font-size:30px; color:#ffff; "><th width"200px">order number:0</th></tr>
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+<tr style="background-color:#4CAF50; font-size:30px; color:#ffff; "><th>order number:756310722</th><th></th></tr>
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+
+<div style="background-color:#4CAF50; width:200px; "><p  style="font-size:30px; color:#ffff;"></p></div>
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+
+<div style="background-color:#4CAF50; width:200px; "><p  style="font-size:30px; color:#ffff;">8921282741</p></div>
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>12</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>22</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>12</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td>mirpur,dhaka</td>
+</tr>
+</table><table style="border: 0px;">
+
+
+ <tr style="background: #cccccc;">
+<th style="width: 150px; text-align: center;">Item</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+<th style="width: 15px; text-align: center;">Quantity</th>
+ </tr>
+ <tr>
+<td>Tires</td>
+<td>0</td>
+ </tr>
+ <tr>
+ <td>oil</td>
+ <td>0</td>
+ </tr>
+ <tr>
+ <td>Spark Plugs</td>
+ <td>0</td>
+ </tr>
+  <tr>
+  <td>address</td>
+ <td></td>
+</tr>
+</table>

@@ -1,0 +1,334 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+body{
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #000;
+    
+}
+/*header section css .........*/
+.header{
+   width: 960px;
+    height: 90px;
+    margin: 0px auto;
+    background-color: #BB7F18;
+    
+}
+.logo {
+    width: 600px;
+    float: left;
+    overflow: hidden;
+}
+.logo img {
+       width: 140px;
+    height: 80px;
+    padding: 5px;
+    float: left;
+}
+.logo h1{
+    color: #ffff;
+    font-size: 38px;
+    /* margin-bottom: 0px; */
+    padding-top: 14px;
+}
+.logo p{
+        color: #ffff;
+    padding-left: 162px;
+}
+.social-link{
+    width: 300px;
+    float: right;
+    overflow: hidden;
+        height: 100%;
+}
+.social-link img{
+        width: 50px;
+    padding-top: 20px;
+    padding-left: 15px;
+    height: 50px;
+}
+/*navmenu section css .........*/
+.navmenu{
+    width: 960px;
+    height: 37px;
+    margin: 0px auto;
+    background-color: #EBAF48;
+}
+.navmenu ul{ list-style: none;
+        padding: 5px;
+}
+.navmenu ul li{
+    display: inline-block;
+   
+    padding: 5px;
+}
+.navmenu ul li a{
+    font-size: 15px;
+    padding: 5px 15px;
+    text-decoration: none;
+    color:#ffff;
+    font-weight: bold;
+    text-transform: capitalize;
+   background-color:  #C78B24;
+    
+}
+/*slider section css.....*/
+.slider12{
+    width: 960px;
+    margin: 0px auto;
+    height: 283px;
+    overflow: hidden;
+   
+}
+/* contain section css.....*/
+.contain{
+    width: 960px;
+    height:900px;
+    margin: 0px auto;
+    margin-top: 20px;
+}
+.maincontain{
+    width: 600px;
+    height: 100%;
+    background-color: #FEF5E6;
+    float: left;
+    overflow: hidden;
+    border: 2px solid #CDC2A7;
+
+    
+}
+.post{
+    
+}
+.title{
+}
+.title h1{
+    color: #AF7F2E;
+    margin: 0px 5px;
+    padding-left: 10px;
+    padding-top: 20px;
+    text-transform: capitalize;
+    border-bottom: 3px solid #858485;
+    
+}
+.pimg{
+   margin-top: 20px; 
+    margin-right: 8px;
+}
+.pimg img{
+    background-color: #ffff;
+    padding: 5px;
+    width: 150px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+    border: 1px solid #9b999a;
+}
+.pimg p{
+    font-size: 16px;
+    text-align: justify;
+    line-height: 23px;
+        
+}
+.readmore{
+    text-align: right;
+}
+.readmore a{
+    text-decoration: none;
+    padding: 5px 15px;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #ffff;
+    color: #C0B195;
+    text-transform: capitalize;
+    margin-right: 10px;
+    border: 1px solid #C4BDA7;
+    
+}
+.sidebar{
+    width: 340px;
+    height: 100%;
+    background-color: #FEF5E6;
+    float: right;
+    overflow: hidden;
+    border: 2px solid #CDC2A7;
+}
+.rpost{
+    
+}
+.rpost h1{
+        margin: 10px 5px;
+    color: #ffff;
+    padding: 10px;
+    font-size: 23px;
+    background-color: #EBAF48;
+    border: 2px solid #C29B57;
+}
+.rpost p{
+    font-size: 16px;
+    line-height: 20px;
+    padding: 5px;
+}
+.footer{
+    width: 960px;
+    height: 70px;
+    margin: 0 auto;
+    text-align: center;
+text-transform: capitalize;
+    font-size: 20px;
+    
+    background-color:  #EBAF48;
+}
+.footer p {
+        padding: 27px;
+}
+.apimg img{
+      background-color: #ffff;
+    padding: 5px;
+    width: 440px;
+    height: 306px;
+    float: left;
+    margin-right: 10px;
+    border: 1px solid #9b999a;
+}
+.apimg p{
+    
+    line-height: 18px;
+}
+.contactform {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #EBAF48;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+    resize: none; }
+
+input[type=submit]:hover {
+  background-color: #C29B57;;
+}
+
+.htitle h1{
+           color: #AF7F2E;
+    padding-left: 8px;
+    font-size: 20px;
+    padding-top: 16px;
+    text-transform: capitalize;
+}
+
+    
+.hp p{
+   font-size: 16px;
+    line-height: 20px;
+    padding: 5px;
+}
+.profile{
+    width: 960px;
+    height: 500px;
+    margin: 0px auto;
+    
+}
+.profileimg{
+    width: 100%;
+    height: 300px;
+    background-image: url(../images/FB_IMG_1575695674264.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+}
+.profileimg img {
+        width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: -50px;
+    right: 40%;
+    border-radius: 1000px;
+}
+.name{
+        margin-top: 55px;
+    text-align: center;
+}
+.name h3{
+    font-size: 20px;
+}
+.name p{
+       padding: 8px 290px;
+
+}
+.profileimg{
+    
+  position: relative;  
+}
+.profileimg span img{
+  width: 40px;
+    height: 40px;
+    bottom: -18px;
+    right: 43%;
+    position: absolute;  
+}
+.coveredite  {
+        bottom: 14px;
+    position: absolute;
+    padding: 10px;
+    background-color: white;
+    right: 10px;
+    float: right;
+    width: 160px;
+    border-radius: 5px;
+}
+.profileimg{
+   position: relative;
+    
+}
+.coveredite img {
+        width: 40px;
+    height: 40px;
+    margin-bottom: 50px;
+    margin-right: 56px;
+    float: left;
+    display: inline-block;
+    overflow: hidden;
+}
+.coveredite p {
+    display: inline-block;
+    float: right;
+        overflow: hidden;
+    
+}
+.coveredite:hover {
+    background-color: #D8DADF;
+} 
